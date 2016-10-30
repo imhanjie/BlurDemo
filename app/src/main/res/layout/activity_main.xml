@@ -55,7 +55,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="center_horizontal"
-                    android:inputType="number"
+                    android:inputType="numberDecimal"
                     android:text="1"/>
 
                 <TextView
@@ -70,7 +70,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="center_horizontal"
-                    android:inputType="number"
+                    android:inputType="numberDecimal"
                     android:text="25"/>
 
             </LinearLayout>
